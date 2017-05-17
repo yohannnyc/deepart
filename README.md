@@ -5,7 +5,7 @@ They showed that we could use Convolution Neural Networks to mix the content of 
 
 Here is a TensorFlow implementation of the article. We used the style of famous masterpieces from Van Gogh, Cezanne, Matisse and Monet and mixed it on a photo of a Central Park taken from the 36th floor of the Sollow building in Manhattan (9 W 57th Street).
 
-[a relative link](Central Park.jpg)
+![Central Park](Central Park.jpg)
 
 
 
