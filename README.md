@@ -3,7 +3,7 @@
 Gatys et al., in their 2015 ![paper](https://arxiv.org/pdf/1508.06576v2.pdf) allow us to do a bit of time travelling and invite our favorite artists to paint a scenery we love or portraits of family members.
 They showed that we could use Convolution Neural Networks to mix the content of an image with the style of another.
 
-Here is a TensorFlow implementation of the article. We used the style of famous masterpieces from Van Gogh, Cezanne, Matisse and Monet and mixed it on a photo of a Central Park taken from the 36th floor of the Sollow building in Manhattan (9 W 57th Street).
+Here is a TensorFlow implementation of the article. We used the style of famous masterpieces from Van Gogh, Cezanne, Matisse and Monet and mixed it on a photo of a Central Park taken from the 36th floor of the Sollow building in Manhattan (9 West 57th Street).
 
 # Requirements: 
 - Python 3.5
